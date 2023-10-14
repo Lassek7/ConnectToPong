@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1023160779710",
+    "project_id": "followers-fd2cc",
+    "storage_bucket": "followers-fd2cc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1023160779710:android:41c9713a96e9a017802fef",
+        "android_client_info": {
+          "package_name": "com.example.connecttopong"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGPFKhRRuIhIgfw8q_MH9MFJFyklZY4y8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
